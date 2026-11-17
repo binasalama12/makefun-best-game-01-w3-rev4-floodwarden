@@ -196,7 +196,7 @@ export const MARKS = [
   {
     id: 'mothlamp',
     name: 'Moon Moth Lantern',
-    line: 'The threat panel shows the next hazard event timer. Earned at 11 rescues.',
+    line: 'Threat panel shows the next hazard timer. Earned at 11 rescues.',
     earn: 'rescue',
   },
   {
